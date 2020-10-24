@@ -5,7 +5,7 @@ export default {
   // Target (https://go.nuxtjs.dev/config-target)
   target: 'static',
   router: {
-    base: 'vue_todo'
+    base: 'todo_vue'
   },
 
   // Global page headers (https://go.nuxtjs.dev/config-head)
