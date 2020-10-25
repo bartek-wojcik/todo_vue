@@ -8,6 +8,10 @@ export default {
     base: '/todo_vue/'
   },
 
+  generate: {
+    fallback: true, // if you want to use '404.html' instead of the default '200.html'
+  },
+
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
     title: 'todo_vue',
